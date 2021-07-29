@@ -1,5 +1,5 @@
 # TopCryptoPrice
-price of 100 top cryptocurrency Based on Name, Price, Price rial, Rank Market, CapPrice Balance and icons
+price of 100 top cryptocurrency Based on Name, Price, Price to rial, Rank Market, CapPrice Balance and icons
 
 install project
 
